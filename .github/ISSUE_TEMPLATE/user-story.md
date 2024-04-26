@@ -11,28 +11,12 @@ assignees: ''
 
 2. **I want** [function] 
 
-3. **So that** [benefit]
-
-4.  (Leave this line blank)
+3. **So that** [benefit]s.
 
 5. ### Details and Assumptions
 
 6. * [document what you know about the functionality] (Use bullet points for details)
 
-7.  (Leave this line blank)
-
-8. ### Acceptance Criteria 
+8. ### Acceptance Criteria
 
 9. * [Write the first acceptance criteria] (Use bullet points for each criteria)
-
-10. * [Write the second acceptance criteria]
-
-11. `gherkin (Optional)`  # Indented for clarity
-
-12. Given [Describe the initial state of the system]
-
-13. When [Describe the user action]
-
-14. Then [Describe the expected outcome]
-
-15. ` `  # Closing triple backticks
