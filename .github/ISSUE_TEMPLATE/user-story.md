@@ -37,28 +37,30 @@ assignees: ''
 
 1. **As a** [role]
 
-2. **I need** [function] 
+2. **I want** [function] 
 
 3. **So that** [benefit]
 
-4.
+4.  (Leave this line blank)
 
 5. ### Details and Assumptions
 
-6. * [document what you know]
+6. * [document what you know about the functionality] (Use bullet points for details)
 
-7. 
+7.  (Leave this line blank)
 
-8. ### Acceptance Criteria 
+8. ### Acceptance Criteria 
 
-9. 
+9. * [Write the first acceptance criteria] (Use bullet points for each criteria)
 
-10.  ` ` ` gherkin
+10. * [Write the second acceptance criteria]
 
-11. Given [some context]
+11. `gherkin (Optional)`  # Indented for clarity
 
-12. When [certain action is taken]
+12. Given [Describe the initial state of the system]
 
-13. Then [the outcome of action is observed]
+13. When [Describe the user action]
 
-14. ` ` `
+14. Then [Describe the expected outcome]
+
+15. ` `  # Closing triple backticks
