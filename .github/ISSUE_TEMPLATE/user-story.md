@@ -7,16 +7,18 @@ assignees: ''
 
 ---
 
-1. **As a** [role]
+**As a** [role]
 
-2. **I want** [function] 
+**I want** [function] 
 
-3. **So that** [benefit]s.
+**So that** [benefit]s.
 
-5. ### Details and Assumptions
+### Details and Assumptions
 
-6. * [document what you know about the functionality] (Use bullet points for details)
+* [document what you know about the functionality] (Use bullet points for details)
 
-8. ### Acceptance Criteria
+### Acceptance Criteria
 
-9. * [Write the first acceptance criteria] (Use bullet points for each criteria)
+```Gherkin
+* [Write the first acceptance criteria] (Use bullet points for each criteria)
+```
